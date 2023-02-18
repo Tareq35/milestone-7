@@ -11,4 +11,3 @@ fetch('https://jsonplaceholder.typicode.com/todos/1')
     .then(json => console.log(json))
 console.log('fourth');
 console.log('fifth');
-
